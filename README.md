@@ -7,16 +7,7 @@ Concluí o ensino médio em 2023, com curso técnico em Administração. Atualme
 
 **"Dados são o novo petróleo: empresas que souberem utilizá-los terão vantagem competitiva."**
 
-Compartilho meu conhecimento através do meu perfil no Instagram "[dandar.ai](https://www.instagram.com/dandar.ai?igsh=MXJjZXRyb3hxdTVkcA==)", onde ajudo iniciantes na área da TI com dicas valiosas, divido minha rotina acadêmica para gerar conexões e servir como uma rede de apoio.
-
 <p align="left">
-    <a href="https://www.instagram.com/dandar.ai?igsh=MXJjZXRyb3hxdTVkcA==">
-        <img 
-            alt="Siga-me no Instagram" 
-            title="Siga-me no Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/Siga--me-E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=DD2A7B"
-        />
-    </a>
     <a href="https://www.linkedin.com/in/dandara-kimberlly">
         <img 
             alt="Conecte-se no LinkedIn" 
