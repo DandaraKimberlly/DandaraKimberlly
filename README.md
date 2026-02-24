@@ -2,13 +2,13 @@
 
 **`Estudante de Sistemas de Informação | Em Formação Prática para Cientista de Dados`**
 
-Olá, mundo! Me chamo Dandara Kimberlly Paula, tenho 19 anos e sou natural de Minas Gerais🔺👩🏼‍🌾
+Olá, mundo! Me chamo Dandara Kimberlly Paula, tenho 20 anos e sou natural de Minas Gerais🔺👩🏼‍🌾
 Concluí o ensino médio em 2023, com curso técnico em Administração. Atualmente, estou cursando bacharel em Sistemas de Informação na UNA - Bom Despacho. Sou apaixonada por tecnologia, dados e os insigths que eles nos trazem!
 
 **"Dados são o novo petróleo: empresas que souberem utilizá-los terão vantagem competitiva."**
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/dandara-kimberlly">
+    <a href="https://www.linkedin.com/in/dandarakimberlly">
         <img 
             alt="Conecte-se no LinkedIn" 
             title="Conecte-se no LinkedIn" 
@@ -50,14 +50,6 @@ Concluí o ensino médio em 2023, com curso técnico em Administração. Atualme
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
-/>
-<img
-  align="left"
-  alt="GitHub"
-  title="GitHub"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 <img
   align="left"
@@ -124,24 +116,5 @@ Concluí o ensino médio em 2023, com curso técnico em Administração. Atualme
   src="https://cdn.simpleicons.org/microsoftexcel/217346"
 />
 <br/>
-
----
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DandaraKimberlly&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandaraKimberlly&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
 </p>
